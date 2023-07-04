@@ -1,19 +1,18 @@
 # AUTOMATIC LICENSE PLATE DETECTION AND RECOGNITION
-#### _by Pallavi Jain
+### by Pallavi Jain
 
 #### Introduction
 Automatic License Plate Recognition technology has been popular due to its wide range of applications in intelligent transportation systems, traffic management, toll automation, journey time analysis, etc. Due to the variation in the background and font color, font style, size of the license plate, and non-standard characters, license plate recognition is a great challenge in many countries. This study applies a deep-learning strategy to overcome such issues to improve license plate recognition efficiency. We hope to understand and utilize the computational photography concepts that aid in detecting and recognizing license plate numbers. We also intend to learn and implement supervised machine-learning algorithms to achieve the stated outcomes.
 
 #### Project Implementation 
 Completed this project on Google Colab.
+
 #### Project Folder Description
- - root- CS445_FinalProject 
     - LicensePlateDataset 
-    - Models 
     - Resnet_ANPDR.ipynb
     - YOLO_ANPDR.ipynb
-    - CS445_Final_Project_Proposal.pdf
-    - CS445_Final_Project_Report.pdf
+    - Project_Report.pdf
+    - README.md
 - LicensePlateDataset 
     - images
        - Cars0.png

@@ -1,0 +1,9 @@
+#Models
+*.h5
+
+#Video Files
+*.avi
+*mp4
+
+# Notebooks
+.ipynb_checkpoints
