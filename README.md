@@ -1,13 +1,11 @@
-# LICENSE PLATE DETECTION AND RECOGNITION
-
-## _Computational Photography Final Project_
-#### _by Pallavi Jain and Sid Ahuja_
+# AUTOMATIC LICENSE PLATE DETECTION AND RECOGNITION
+#### _by Pallavi Jain
 
 #### Introduction
-Automatic License Plate Recognition technology has been popular due to its wide range of applications in intelligent transportation systems, traffic management, toll automation, journey time analysis, etc. Due to the variation in the background and font color, font style, size of the license plate, and non-standard characters, license plate recognition is a great challenge in many countries. To overcome such issues, this study applies a deep-learning strategy to improve license plate recognition efficiency. We hope to understand and utilize the computational photography concepts that aid in detecting and recognizing license plate numbers. We also intend to learn and implement supervised machine learning algorithms to achieve the stated outcomes.
+Automatic License Plate Recognition technology has been popular due to its wide range of applications in intelligent transportation systems, traffic management, toll automation, journey time analysis, etc. Due to the variation in the background and font color, font style, size of the license plate, and non-standard characters, license plate recognition is a great challenge in many countries. This study applies a deep-learning strategy to overcome such issues to improve license plate recognition efficiency. We hope to understand and utilize the computational photography concepts that aid in detecting and recognizing license plate numbers. We also intend to learn and implement supervised machine-learning algorithms to achieve the stated outcomes.
 
 #### Project Implementation 
-We completed this project on Google Colab and hence the project directory structure is from the google drive.
+Completed this project on Google Colab.
 #### Project Folder Description
  - root- CS445_FinalProject 
     - LicensePlateDataset 
@@ -41,12 +39,12 @@ We completed this project on Google Colab and hence the project directory struct
         - runs/train/Model2
 
 #### Running the project
-- Download the zip file, unzip and upload the root directory on your google drive.
-- The ipynb files for each of the model has description and comments of the flow and code.
-- You can run the Resnet_ANPDR.ipynb cell by cell by connecting to the runtime to the GPU for training the model. To only check the results using the model, follow commands on the ipynb to load the saved model from the directory and use it on test data.
+- Download the zip file, unzip, and upload the root directory on your google drive.
+- The ipynb files for each model have descriptions and comments of the flow and code.
+- You can run the Resnet_ANPDR.ipynb cell by cell by connecting to the runtime to the GPU for training the model. To only check the results using the model, follow the commands on the ipynb to load the saved model from the directory and use it on test data.
 - You can do the same for YOLO_ANPDR.ipynb.
 
 #### Results
-Check a small video of our results here - https://vimeo.com/779004724
-You can also find results of our experiments on the output cells of the colab notebooks and our report.
+Check a small video of the results here - https://vimeo.com/779004724
+You can also find the results of experiments on the output cells of the colab notebooks and the report.
 
